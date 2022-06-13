@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Display Active Users Account Details</h1>
+      <h1>React Testing</h1>
     </div>
   );
 }
